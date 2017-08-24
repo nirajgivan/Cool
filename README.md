@@ -1,2 +1,2 @@
 # Cool
-Cool System 
+Cool System ...
